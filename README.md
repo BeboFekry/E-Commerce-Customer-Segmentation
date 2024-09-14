@@ -8,5 +8,4 @@ The dataset consists of five interrelated tables that provide information about 
 
 Dashboard Development: Creating an interactive dashboard to present key insights from the dataset using Power BI that shows the customer distribution by genders and city, number of new customers in each month, number of transactions for each branch, number of transactions over time, number of transactions in each city.
 
-Customer Segmentation: Using K-Means unsupervised clustering machine learning technique to segment customers based on their behavior and demographics.
-
+Customer Segmentation: Using K-Means unsupervised clustering machine learning technique to segment customers based on their behavior and demographics into 5 main clusters too give recommendations for each.
